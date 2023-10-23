@@ -1,6 +1,6 @@
 # QA-Portfolio
 # About me
-My name is Piotr Stachniuk and I’m at the beginning of my career in IT. I studied mechatronics at Technical University of Lodz so I have knowledge about computer systems and programming. I want start my career as manual tester to expand my understanding of functional applications and because I already have experience in quality control. I'd like to show my achievements in testing on this page.
+My name is Piotr Stachniuk and I’m at the beginning of my career in IT. I studied mechatronics at Technical University of Lodz so I have some knowledge about computer systems and programming. I want to start my career as manual tester to expand my understanding of functional applications and because I already have experience in quality control. I'd like to show my achievements in testing on this page.
 # Tools 
 - Postman
 - Jira
