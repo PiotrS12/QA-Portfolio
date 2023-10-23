@@ -16,12 +16,12 @@ My name is Piotr Stachniuk and I’m at the beginning of my career in IT. I stud
 - API testing
 - Scrum, Agile
 - Software testing
-- Creatin test cases
+- Creating test cases
 - Reporting Bugs
 # Certificates
 - ISTQB foundation level
 # Courses
-- GoIT: kurs quality assurance
+- GoIT: quality assurance course
 # Groups on Facebook
 - Tester oprogramowania - wsparcie na starcie
 - Testowanie oprogramowania
