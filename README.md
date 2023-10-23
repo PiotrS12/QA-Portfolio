@@ -31,5 +31,7 @@ My name is Piotr Stachniuk and I’m at the beginning of my career in IT. I stud
 [testowanie-oprogramowania.pl](https://testowanie-oprogramowania.pl/blog/)
 [https://www.toniebug.pl/](https://www.toniebug.pl/)
 # Test case examples
-
+- [Test cases for site www.edu.goit.global.pl part 1](https://docs.google.com/spreadsheets/d/1_n-zlovWhJikl0CB0if-BWBv5X7ekpDh/edit?usp=sharing&ouid=105753525959356636140&rtpof=true&sd=true)
+- [Test cases for site www.edu.goit.global.pl part 2](https://docs.google.com/spreadsheets/d/1ooCpxIfw_CLornzOE2lDwjzXp8MYFsPV/edit?usp=sharing&ouid=105753525959356636140&rtpof=true&sd=true)
 # My bug reports
+- [Bugs found on Mediamarkt.pl](https://docs.google.com/spreadsheets/d/1B5tK_ePZTDQRB-3vfTjusy8AInTGL-9h/edit?usp=sharing&ouid=105753525959356636140&rtpof=true&sd=true)
