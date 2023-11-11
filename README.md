@@ -33,8 +33,8 @@ My name is Piotr Stachniuk and I’m at the beginning of my career in IT. I stud
 - Testowanie oprogramowania
 - Testowanie oprogramowania - PRACA, Ogłoszenia
 # Blogs read
-[Testerzy.pl](https://testerzy.pl/)
-[testowanie-oprogramowania.pl](https://testowanie-oprogramowania.pl/blog/)
-[https://www.toniebug.pl/](https://www.toniebug.pl/)
+- [Testerzy.pl](https://testerzy.pl/)
+- [testowanie-oprogramowania.pl](https://testowanie-oprogramowania.pl/blog/)
+- [https://www.toniebug.pl/](https://www.toniebug.pl/)
 # Events
 - Tester Summit 2023r.
