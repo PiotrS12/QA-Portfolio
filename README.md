@@ -8,20 +8,26 @@ My name is Piotr Stachniuk and I’m at the beginning of my career in IT. I stud
 - Qase
 - Trello
 - Swagger
+- GitHub
 # Tech Skills
 - SQL
 - DevTools
 - C#
+- JavaScript
 - HTML / CSS
+- Git
 - API testing
 - Scrum, Agile
 - Software testing
 - Creating test cases
 - Reporting Bugs
-# Certificates
-- ISTQB foundation level
 # Courses
 - GoIT: quality assurance course
+- # Test case examples
+- [Test cases for site www.edu.goit.global.pl](https://docs.google.com/spreadsheets/d/1_n-zlovWhJikl0CB0if-BWBv5X7ekpDh/edit?usp=sharing&ouid=105753525959356636140&rtpof=true&sd=true)
+- [Test cases for www.edu.goit.pl test site](https://docs.google.com/spreadsheets/d/1ooCpxIfw_CLornzOE2lDwjzXp8MYFsPV/edit?usp=sharing&ouid=105753525959356636140&rtpof=true&sd=true)
+# My bug reports
+- [Online store Bugs](https://docs.google.com/spreadsheets/d/1B5tK_ePZTDQRB-3vfTjusy8AInTGL-9h/edit?usp=sharing&ouid=105753525959356636140&rtpof=true&sd=true)
 # Groups on Facebook
 - Tester oprogramowania - wsparcie na starcie
 - Testowanie oprogramowania
@@ -30,8 +36,5 @@ My name is Piotr Stachniuk and I’m at the beginning of my career in IT. I stud
 [Testerzy.pl](https://testerzy.pl/)
 [testowanie-oprogramowania.pl](https://testowanie-oprogramowania.pl/blog/)
 [https://www.toniebug.pl/](https://www.toniebug.pl/)
-# Test case examples
-- [Test cases for site www.edu.goit.global.pl](https://docs.google.com/spreadsheets/d/1_n-zlovWhJikl0CB0if-BWBv5X7ekpDh/edit?usp=sharing&ouid=105753525959356636140&rtpof=true&sd=true)
-- [Test cases for www.edu.goit.pl test site](https://docs.google.com/spreadsheets/d/1ooCpxIfw_CLornzOE2lDwjzXp8MYFsPV/edit?usp=sharing&ouid=105753525959356636140&rtpof=true&sd=true)
-# My bug reports
-- [Online store Bugs](https://docs.google.com/spreadsheets/d/1B5tK_ePZTDQRB-3vfTjusy8AInTGL-9h/edit?usp=sharing&ouid=105753525959356636140&rtpof=true&sd=true)
+# Events
+- Tester Summit 2023r.
