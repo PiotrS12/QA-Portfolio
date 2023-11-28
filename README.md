@@ -21,6 +21,8 @@ My name is Piotr Stachniuk and I’m at the beginning of my career in IT. I stud
 - Software testing
 - Creating test cases
 - Reporting Bugs
+# Projects
+- [Wallet web application](https://drive.google.com/drive/folders/1G-WXXH0-0mKmwRunVpfd-1CkEofQng6C?usp=sharing)
 # Courses
 - GoIT: quality assurance course
 - # Test case examples
@@ -28,6 +30,7 @@ My name is Piotr Stachniuk and I’m at the beginning of my career in IT. I stud
 - [Test cases for www.edu.goit.pl test site](https://docs.google.com/spreadsheets/d/1ooCpxIfw_CLornzOE2lDwjzXp8MYFsPV/edit?usp=sharing&ouid=105753525959356636140&rtpof=true&sd=true)
 # My bug reports
 - [Online store Bugs](https://docs.google.com/spreadsheets/d/1B5tK_ePZTDQRB-3vfTjusy8AInTGL-9h/edit?usp=sharing&ouid=105753525959356636140&rtpof=true&sd=true)
+- [Mobile app](https://docs.google.com/spreadsheets/d/1dOPS7d6AOkXVDM6lwG2yf88mIYqGBAWfrwhpqBGV5DA/edit?usp=sharing)
 # Groups on Facebook
 - Tester oprogramowania - wsparcie na starcie
 - Testowanie oprogramowania
